@@ -1,6 +1,6 @@
 # REMOTE_EM_MASTER_CONTEXT.md
 
-Version: V5.3
+Version: V5.4
 
 Last Update: 2026-06-24
 
@@ -32,7 +32,7 @@ Current Focus:
 
 English Recovery
 
-Resume Reconstruction
+Technical Interview Preparation
 
 Current Problem:
 
@@ -40,9 +40,9 @@ English speaking ability is weak
 
 Next Task:
 
-1. Resume draft
-2. LinkedIn profile
-3. English Question #1
+1. English learning (main task)
+2. Daily Interview Question #1
+3. Daily Interview Question #2
 
 Quick Metrics:
 
@@ -56,7 +56,7 @@ Interviews: 0
 
 Offers: 0
 
-Skills: 0/280 total (see SKILLS PROGRESS)
+Skills: 0/410 total (see SKILLS PROGRESS)
 
 English: Recovering → B2 (see ENGLISH PROGRESS)
 
@@ -396,7 +396,7 @@ Targets (track progress in SKILLS PROGRESS):
 
 Technical:
 
-50 Questions
+180 Questions (2/day for first 3 months)
 
 Management:
 
@@ -412,7 +412,106 @@ English Interview:
 
 System Design:
 
-As needed
+20 Questions
+
+==================================================
+INTERVIEW PREPARATION STRATEGY
+==============================
+
+First 3 Months Priority:
+
+English: 80%
+
+Interview Preparation: 20%
+
+Rules:
+
+* Only 2 questions per day.
+* Focus on speaking and thinking, not memorization.
+* Questions should be guided instead of direct answers.
+* Encourage active speaking.
+* Use layered hints and follow-up questions.
+* Build Technical Lead / Engineering Manager thinking.
+
+Daily Flow:
+
+Question
+
+↓
+
+What interviewer really wants
+
+↓
+
+Layer 1 guidance
+
+↓
+
+Layer 2 follow-up
+
+↓
+
+Layer 3 follow-up
+
+↓
+
+Answer by yourself
+
+↓
+
+Good answer characteristics
+
+↓
+
+Common mistakes
+
+↓
+
+Interview techniques
+
+↓
+
+Reference answer
+
+Month 1:
+
+Redis
+
+Kafka
+
+MySQL
+
+JVM
+
+Microservice
+
+Month 2:
+
+High Concurrency
+
+Cache
+
+MQ
+
+System Design
+
+Consistency
+
+Month 3:
+
+Tech Lead
+
+Engineering Manager
+
+Code Review
+
+Hiring
+
+Roadmap
+
+Performance
+
+1-on-1
 
 ==================================================
 STAGE GUIDE
@@ -490,7 +589,7 @@ SKILLS PROGRESS
 
 Technical Questions:
 
-0/50
+0/180
 
 Management Questions:
 
@@ -652,19 +751,19 @@ English speaking ability is weak
 
 Current Bottleneck:
 
-Interview skills
+English speaking and technical expression
 
 Next Milestone:
 
-Finish Resume
+Reach B2 English
 
-Finish LinkedIn
+Build technical interview knowledge base
 
 Next Task:
 
-1. Resume draft
-2. LinkedIn profile
-3. English Question #1
+Daily English learning
+
+2 interview questions per day
 
 ==================================================
 HISTORY LOG
@@ -802,3 +901,30 @@ Next:
 - Resume draft
 - LinkedIn profile
 - English Question #1
+
+---
+
+2026-06-24 — CareerOS V5.4 Interview Strategy
+
+Summary:
+
+* Resume preparation downgraded in priority.
+* English learning becomes main task (80%).
+* Interview preparation becomes secondary task (20%).
+* Added INTERVIEW PREPARATION STRATEGY section.
+* First three months use only two interview questions per day.
+* Focus on guided questions, active speaking and interview techniques.
+* Month1: Technical foundation.
+* Month2: System design.
+* Month3: Tech Lead and EM topics.
+
+Progress:
+
+* Technical Questions target updated: 180.
+* Stage 1 Day 1 unchanged.
+
+Next:
+
+* Start Day1 Interview Questions next Monday.
+* Q1 Redis Why Fast.
+* Q2 Why Cache.
